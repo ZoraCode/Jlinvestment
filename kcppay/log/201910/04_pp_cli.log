@@ -1,0 +1,10 @@
+1004-154111.425 -  3975 - A89GEA4FfB4e2GEe - MSG : TX_START - site_cd=[A89GE]+tx_cd=[00100000]+ordr_idxx=[201910041570171176083]+log_level=[3]+opt=[0]
+1004-154111.433 -  3975 - A89GEA4FfB4e2GEe - MSG : PG_SERVER_CONN__SUCC
+1004-154111.443 -  3975 - A89GEA4FfB4e2GEe - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1004-154111.469 -  3975 - A89GEA4FfB4e2GEe - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1004-154111.469 -  3975 - A89GEA4FfB4e2GEe - MSG : TX_ENDED - res=[res_cd=8124res_msg=신용카드 건최대한도 초과res_en_msg=The payment amount has exceeded its per transaction limit set by the merchant.]
+1004-154628.209 -  4296 - A89GEA4FkS4e2GEe - MSG : TX_START - site_cd=[A89GE]+tx_cd=[00100000]+ordr_idxx=[201910041570171724929]+log_level=[3]+opt=[0]
+1004-154628.214 -  4296 - A89GEA4FkS4e2GEe - MSG : PG_SERVER_CONN__SUCC
+1004-154628.225 -  4296 - A89GEA4FkS4e2GEe - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1004-154628.257 -  4296 - A89GEA4FkS4e2GEe - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1004-154628.257 -  4296 - A89GEA4FkS4e2GEe - MSG : TX_ENDED - res=[res_cd=8124res_msg=신용카드 건최대한도 초과res_en_msg=The payment amount has exceeded its per transaction limit set by the merchant.]

@@ -1,0 +1,30 @@
+0311-145749.700 - 13401 - T00003BEvn9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583906215325]+log_level=[3]+opt=[0]
+0311-145759.718 - 13401 - T00003BEvn9K3Anf - ERR : PG_SERVER_CONN__FAIL - CONN_INFO=[testpaygw.kcp.co.kr:8090]+ERR_MSG=[Operation now in progress]
+0311-145759.718 - 13401 - T00003BEvn9K3Anf - MSG : TX_ENDED - res=[res_cd=S202res_msg=PG 서버 접속 오류]
+0311-150036.563 - 13597 - T00003BF0a9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583906409503]+log_level=[3]+opt=[0]
+0311-150046.582 - 13597 - T00003BF0a9K3Anf - ERR : PG_SERVER_CONN__FAIL - CONN_INFO=[testpaygw.kcp.co.kr:8090]+ERR_MSG=[Operation now in progress]
+0311-150046.582 - 13597 - T00003BF0a9K3Anf - MSG : TX_ENDED - res=[res_cd=S202res_msg=PG 서버 접속 오류]
+0311-150315.194 - 13772 - T00003BF3F9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583906570375]+log_level=[3]+opt=[0]
+0311-150325.210 - 13772 - T00003BF3F9K3Anf - ERR : PG_SERVER_CONN__FAIL - CONN_INFO=[testpaygw.kcp.co.kr:8090]+ERR_MSG=[Operation now in progress]
+0311-150325.210 - 13772 - T00003BF3F9K3Anf - MSG : TX_ENDED - res=[res_cd=S202res_msg=PG 서버 접속 오류]
+0311-174202.632 - 22682 - T00003BHg29K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583916073617]+log_level=[3]+opt=[0]
+0311-174212.652 - 22682 - T00003BHg29K3Anf - ERR : PG_SERVER_CONN__FAIL - CONN_INFO=[testpaygw.kcp.co.kr:8090]+ERR_MSG=[Operation now in progress]
+0311-174212.652 - 22682 - T00003BHg29K3Anf - MSG : TX_ENDED - res=[res_cd=S202res_msg=PG 서버 접속 오류]
+0311-174335.697 - 22762 - T00003BHhZ9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583916173704]+log_level=[3]+opt=[0]
+0311-174345.705 - 22762 - T00003BHhZ9K3Anf - ERR : PG_SERVER_CONN__FAIL - CONN_INFO=[testpaygw.kcp.co.kr:8090]+ERR_MSG=[Operation now in progress]
+0311-174345.705 - 22762 - T00003BHhZ9K3Anf - MSG : TX_ENDED - res=[res_cd=S202res_msg=PG 서버 접속 오류]
+0311-182105.106 - 24764 - T00003BIL59K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583918437488]+log_level=[3]+opt=[0]
+0311-182105.113 - 24764 - T00003BIL59K3Anf - MSG : PG_SERVER_CONN__SUCC
+0311-182105.124 - 24764 - T00003BIL59K3Anf - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0311-182105.266 - 24764 - T00003BIL59K3Anf - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0311-182105.267 - 24764 - T00003BIL59K3Anf - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T00003BIL59K3Anfpay_method=PACAorder_no=202003111583918437488card_no=9410100000000129mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=202003111583918437488cert_no=20321930605751tno=20321930605751amount=770000card_mny=770000coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20200311182103van_apptime=20200311182103app_no=80328665bizx_numb=24450105quota=00noinf=Npg_txid=0311182103MP01AG4NMUH90000007700000080328665res_tax_flag=TG03res_tax_mny=700000res_free_mny=0res_vat_mny=70000partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0join_cd=0000card_cd=CCSScard_name=삼성카드acqu_cd=CCSSacqu_name=삼성카드]
+0311-182856.576 - 25169 - T00003BISu9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583918839906]+log_level=[3]+opt=[0]
+0311-182856.585 - 25169 - T00003BISu9K3Anf - MSG : PG_SERVER_CONN__SUCC
+0311-182856.595 - 25169 - T00003BISu9K3Anf - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0311-182856.740 - 25169 - T00003BISu9K3Anf - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0311-182856.741 - 25169 - T00003BISu9K3Anf - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T00003BISu9K3Anfpay_method=PACAorder_no=202003111583918839906card_no=6253200000001144mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=202003111583918839906cert_no=20321930605803tno=20321930605803amount=770000card_mny=770000coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20200311182855van_apptime=20200311182855app_no=73867103bizx_numb=725479023quota=00noinf=Npg_txid=0311182855MP01AA4NWY990000007700000073867103res_tax_flag=TG03res_tax_mny=700000res_free_mny=0res_vat_mny=70000partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0card_bin_bank_cd=0020join_cd=0000card_cd=CCBCcard_name=BC카드acqu_cd=CCBCacqu_name=BC카드]
+0311-184011.472 - 25789 - T00003BIeB9K3Anf - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[202003111583919289167]+log_level=[3]+opt=[0]
+0311-184011.478 - 25789 - T00003BIeB9K3Anf - MSG : PG_SERVER_CONN__SUCC
+0311-184011.488 - 25789 - T00003BIeB9K3Anf - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0311-184011.738 - 25789 - T00003BIeB9K3Anf - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0311-184011.738 - 25789 - T00003BIeB9K3Anf - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T00003BIeB9K3Anfpay_method=PACAorder_no=202003111583919289167card_no=5409260000004092mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=202003111583919289167cert_no=20321930605946tno=20321930605946amount=770000card_mny=770000coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20200311184010van_apptime=20200311184010app_no=27696319bizx_numb=00013219101quota=00noinf=Npg_txid=0311184010MP01AB4OBEZN0000007700000027696319res_tax_flag=TG03res_tax_mny=700000res_free_mny=0res_vat_mny=70000partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0card_bin_bank_cd=0341isp_partner_cd=050204040029981join_cd=0000card_cd=CCKMcard_name=KB국민카드acqu_cd=CCKMacqu_name=KB국민카드]
